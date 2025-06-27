@@ -1,0 +1,8 @@
+{
+  "name": "test-package-2",
+  "version": "0.2.0",
+  "description": "Test package test-package-2",
+  "db-repo": "https://github.com/crimson206/test-miniature",
+  "root-dir": "packages/test-package-2",
+  "branch": "main"
+}
