@@ -1,0 +1,8 @@
+{
+  "name": "utils_pkg",
+  "version": "1.0.0",
+  "description": "Test package utils_pkg",
+  "db-repo": "https://github.com/crimson206/test-miniature",
+  "root-dir": "packages/utils_pkg",
+  "branch": "main"
+}
